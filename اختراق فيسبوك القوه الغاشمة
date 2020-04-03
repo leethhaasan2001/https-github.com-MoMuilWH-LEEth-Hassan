@@ -1,0 +1,9 @@
+pkg install update
+pkg install upgrade
+pkg install python
+pkg install python2
+pkg install git
+git clone https-github.com-MoMuilWH-LEEth-Hassan
+ 
+cd LEEth-Hassan
+python2 LEETH-Hassan
